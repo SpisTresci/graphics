@@ -20,7 +20,7 @@
 
 
 
-## transparent
+## with transparent background
 
 ### 1140x250
 
